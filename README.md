@@ -1,4 +1,4 @@
-## Hi 👋! My name is ... and I'm a Developer & Product Designer from ...
+## Hi 👋! My name is Farinaz and I'm a Developer & Product Designer from Toronto!
 
 ---
 

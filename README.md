@@ -4,7 +4,7 @@
 
 <img align="right" height="200" width="200" src="./BuddyMD.gif"  />
 
----
+
 ### Tech Stack
 
 <div align="left">

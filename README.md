@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" height="150" width="150" src="./BuddyMD.gif"  />
+<img align="right" height="200" width="200" src="./BuddyMD.gif"  />
 
 ---
 

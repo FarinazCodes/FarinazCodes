@@ -1,6 +1,6 @@
 ## Hi 👋! My name is Farinaz and I'm a Developer & Product Designer from Toronto!
 
----
+
 
 <img align="right" height="200" width="200" src="./BuddyMD.gif"  />
 

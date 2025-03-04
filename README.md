@@ -53,9 +53,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
   <img width="12" />
-  <img src="https://framerusercontent.com/images/dcEtqZ5RZTl4PbMxxk9C5MsI.svg" height="50" alt="Framer" />
+  <img src="https://cdn.worldvectorlogo.com/logos/framer.svg" height="50" alt="Framer" />
   <img width="12" />
-  <img src="https://uploads-ssl.webflow.com/5f6b5b1b49efc13ef8655b30/5f6b5b1b49efc13c3b655b50_Webflow-logo.svg" height="50" alt="Webflow" />
+  <img src="https://cdn.worldvectorlogo.com/logos/webflow.svg" height="50" alt="Webflow" />
 </div>
 
 ---

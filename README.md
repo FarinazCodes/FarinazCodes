@@ -53,9 +53,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/framer.svg" height="50" alt="Framer" />
+  <img src="./framer_logo.png"  height="50" alt="Framer" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/webflow.svg" height="50" alt="Webflow" />
+  <img src="./Webflow-Logo.svg"  height="50" alt="Webflow" />
 </div>
 
 ---

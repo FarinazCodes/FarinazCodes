@@ -64,7 +64,7 @@
 
 - 💼 **Portfolio:** [farinaz.design](https://www.farinaz.design/)  
 - 📧 [Email](mailto:hello.farinaz@gmail.com)  
-- 💬 [LinkedIn](#) _(Add your LinkedIn link!)_  
+- 💬 [LinkedIn]_(https://www.linkedin.com/in/farinazebrahimpour/) 
 
 
 ---

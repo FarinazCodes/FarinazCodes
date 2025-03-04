@@ -1,6 +1,6 @@
 ## Hi 👋! I'm Farinaz, a Developer & Product Designer from Toronto!  
 
-<img align="right" height="200" width="200" src="./BuddyMD.gif" />
+<img align="right" height="100" width="100" src="./BuddyMD.gif" />
 
 🚀 Passionate about building intuitive and scalable digital experiences, I blend design thinking with development to craft impactful products.  
 
@@ -53,9 +53,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/354431/framer.svg" height="50" alt="Framer" />
+  <img src="https://framerusercontent.com/images/dcEtqZ5RZTl4PbMxxk9C5MsI.svg" height="50" alt="Framer" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/354250/webflow.svg" height="50" alt="Webflow" />
+  <img src="https://uploads-ssl.webflow.com/5f6b5b1b49efc13ef8655b30/5f6b5b1b49efc13c3b655b50_Webflow-logo.svg" height="50" alt="Webflow" />
 </div>
 
 ---
@@ -63,8 +63,8 @@
 ### 📬 Connect with Me  
 
 - 💼 **Portfolio:** [farinaz.design](https://www.farinaz.design/)  
-- 📧 [Email](mailto:hello.farinaz@gmail.com)  
-- 💬 [LinkedIn]_(https://www.linkedin.com/in/farinazebrahimpour/) 
+- 📧 **Email:** [hello.farinaz@gmail.com](mailto:hello.farinaz@gmail.com)
+- 💬 **LinkedIn:** [Farinaz Ebrahimpour](https://www.linkedin.com/in/farinazebrahimpour/)
 
 
 ---

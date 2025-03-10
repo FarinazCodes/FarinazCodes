@@ -2,7 +2,7 @@
 
 <img align="right" height="100" width="100" src="./BuddyMD.gif" />
 
-🚀 Passionate about building intuitive and scalable digital experiences, I blend design thinking with development to craft impactful products.  
+🚀 I’m all about whipping up digital experiences that are easy to use and can grow like crazy—part designer, part developer, cooking up products that make people go, “Whoa, that’s cool!”
 
 ---
 

@@ -45,19 +45,54 @@
 ### 🛠 Tools  
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+    height="50" 
+    alt="VSCode" 
+    title="VSCode"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    height="50" 
+    alt="Git" 
+    title="Git"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    height="50" 
+    alt="GitHub" 
+    title="GitHub"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
+    height="50" 
+    alt="Postman" 
+    title="Postman"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
+    height="50" 
+    alt="Figma" 
+    title="Figma"
+  />
   <img width="12" />
-  <img src="./framer_logo.png"  height="50" alt="Framer" />
+  <img 
+    src="./framer_logo.png"  
+    height="50" 
+    alt="Framer" 
+    title="Framer"
+  />
   <img width="12" />
-  <img src="./Webflow-Logo.svg"  height="50" alt="Webflow" />
+  <img 
+    src="./Webflow-Logo.svg"  
+    height="50" 
+    alt="Webflow"
+    title="Webflow"
+  />
 </div>
 
 ---

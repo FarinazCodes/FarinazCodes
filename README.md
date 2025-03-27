@@ -175,7 +175,7 @@
 
 ### 📬 Connect with Me  
 
-- 💼 **Portfolio:** [farinaz.design](https://www.farinaz.design/)  
+- 💼 **Portfolio:** [farinazcodes.netlify.app](https://farinazcodes.netlify.app))  
 - 📧 **Email:** [hello.farinaz@gmail.com](mailto:hello.farinaz@gmail.com)
 - 💬 **LinkedIn:** [Farinaz Ebrahimpour](https://www.linkedin.com/in/farinazebrahimpour/)
 

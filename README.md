@@ -107,6 +107,9 @@
     title="Google Cloud"
   />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Microsoft Azure" title="Microsoft Azure" /> <img width="12" /> 
+  
+  <img width="12" />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
     height="50" 

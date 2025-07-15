@@ -80,56 +80,50 @@
 
 ### 🛠 Tools  
 
-<div align="left">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-    height="50" 
-    alt="VSCode" 
+<p align="left">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    alt="VSCode"
+    height="50"
     title="VSCode"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-    height="50" 
-    alt="Git" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    alt="Git"
+    height="50"
     title="Git"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-    height="50" 
-    alt="GitHub" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    alt="GitHub"
+    height="50"
     title="GitHub"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
-    height="50" 
-    alt="Postman" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+    alt="Postman"
+    height="50"
     title="Postman"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
-    height="50" 
-    alt="Figma" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+    alt="Figma"
+    height="50"
     title="Figma"
-  />
-  <img width="12" />
-  <img 
-    src="./framer_logo.png"  
-    height="50" 
-    alt="Framer" 
+  />&nbsp;
+  <img
+    src="./framer_logo.png"
+    alt="Framer"
+    height="50"
     title="Framer"
-  />
-  <img width="12" />
-  <img 
-    src="./Webflow-Logo.svg"  
-    height="50" 
+  />&nbsp;
+  <img
+    src="./Webflow-Logo.svg"
     alt="Webflow"
+    height="50"
     title="Webflow"
   />
-</div>
+</p>
 
 ---
 

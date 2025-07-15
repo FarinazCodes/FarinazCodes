@@ -9,102 +9,71 @@
 ### 🛠 Tech Stack  
 
 <p align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    alt="HTML5"
-    height="50"
-    title="HTML5"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    alt="CSS3"
-    height="50"
-    title="CSS3"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-    alt="Sass"
-    height="50"
-    title="Sass"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-    alt="TailwindCSS"
-    height="50"
-    title="TailwindCSS"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    alt="JavaScript"
-    height="50"
-    title="JavaScript"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    alt="TypeScript"
-    height="50"
-    title="TypeScript"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    alt="React"
-    height="50"
-    title="React"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-    alt="Next.js"
-    height="50"
-    title="Next.js"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-    alt="Firebase"
-    height="50"
-    title="Firebase"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twilio.svg"
-    alt="Twilio"
-    height="50"
-    title="Twilio"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-    alt="Node.js"
-    height="50"
-    title="Node.js"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    alt="Express.js"
-    height="50"
-    title="Express.js"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-    alt="MySQL"
-    height="50"
-    title="MySQL"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-    alt="Google Cloud"
-    height="50"
-    title="Google Cloud"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
-    alt="Microsoft Azure"
-    height="50"
-    title="Microsoft Azure"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-    alt="Docker"
-    height="50"
-    title="Docker"
-  />
+<img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  alt="HTML5"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+  alt="CSS3"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+  alt="Sass"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+  alt="TailwindCSS"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  alt="JavaScript"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+  alt="TypeScript"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+  alt="React"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+  alt="Next.js"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+  alt="Firebase"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twilio.svg"
+  alt="Twilio"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+  alt="Node.js"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+  alt="Express.js"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+  alt="MySQL"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+  alt="Google Cloud"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+  alt="Azure"
+  width="50"
+/><img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+  alt="Docker"
+  width="50"
+/>
 </p>
 
 ---

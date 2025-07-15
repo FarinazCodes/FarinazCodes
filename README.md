@@ -8,116 +8,106 @@
 
 ### 🛠 Tech Stack  
 
-<div style="display:flex; gap:12px; align-items:center;">
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-    height="50" 
+### 🛠 Tech Stack
+
+<p align="left">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     alt="HTML5"
+    height="50"
     title="HTML5"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
     alt="CSS3"
+    height="50"
     title="CSS3"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
     alt="Sass"
+    height="50"
     title="Sass"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
     alt="TailwindCSS"
+    height="50"
     title="TailwindCSS"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     alt="JavaScript"
+    height="50"
     title="JavaScript"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
     alt="TypeScript"
+    height="50"
     title="TypeScript"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     alt="React"
+    height="50"
     title="React"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
     alt="Next.js"
+    height="50"
     title="Next.js"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
     alt="Firebase"
+    height="50"
     title="Firebase"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twilio.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twilio.svg"
     alt="Twilio"
+    height="50"
     title="Twilio"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
     alt="Node.js"
+    height="50"
     title="Node.js"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
     alt="Express.js"
+    height="50"
     title="Express.js"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
     alt="MySQL"
+    height="50"
     title="MySQL"
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
     alt="Google Cloud"
+    height="50"
     title="Google Cloud"
-  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Microsoft Azure" title="Microsoft Azure" /> <img width="12" /> 
-  
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-    height="50" 
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"
+    alt="Microsoft Azure"
+    height="50"
+    title="Microsoft Azure"
+  />&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
     alt="Docker"
+    height="50"
     title="Docker"
   />
-</div>
-
+</p>
 
 ---
 

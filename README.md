@@ -80,50 +80,7 @@
 
 ### 🛠 Tools  
 
-<p align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-    alt="VSCode"
-    height="50"
-    title="VSCode"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    alt="Git"
-    height="50"
-    title="Git"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    alt="GitHub"
-    height="50"
-    title="GitHub"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
-    alt="Postman"
-    height="50"
-    title="Postman"
-  />&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-    alt="Figma"
-    height="50"
-    title="Figma"
-  />&nbsp;
-  <img
-    src="./framer_logo.png"
-    alt="Framer"
-    height="50"
-    title="Framer"
-  />&nbsp;
-  <img
-    src="./Webflow-Logo.svg"
-    alt="Webflow"
-    height="50"
-    title="Webflow"
-  />
-</p>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" /><img src="./framer_logo.png" alt="Framer" width="50" /><img src="./Webflow-Logo.svg" alt="Webflow" width="50" /></p>
 
 ---
 

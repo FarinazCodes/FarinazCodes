@@ -2,7 +2,7 @@
 
 <img align="right" height="100" width="100" src="./BuddyMD.gif" />
 
-🚀 I’m all about whipping up digital experiences that are easy to use and can grow like crazy—part designer, part developer, cooking up products that make people go, “Whoa, that’s cool!”
+🚀 I started out designing things to look good, then realized I wanted to build them too. Now I get to do both, designing and coding digital experiences that are simple, scalable, and fun to use.
 
 ---
 

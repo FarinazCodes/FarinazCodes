@@ -14,7 +14,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_farinazcodes.netlify.app-6C63FF?style=for-the-badge)](https://farinazcodes.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FarinazCodesrahimpour/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farinazebrahimpour/)
 [![Email](https://img.shields.io/badge/hello.farinaz@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.farinaz@gmail.com)
 
 </div>
@@ -60,10 +60,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarinazCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarinazCodes&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarinazCodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarinazCodes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---

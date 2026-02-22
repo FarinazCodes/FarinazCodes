@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./checkerboard border frame.png" width="100%" />
+
 # Hi 👋 I'm Farinaz
 
 ### Developer & Product Designer · Toronto 🇨🇦

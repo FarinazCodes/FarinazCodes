@@ -8,8 +8,8 @@
 
 <br/>
 
-> 🚀 I started out designing things to look good, then realized I wanted to build them too.  
-> Now I get to do both — designing and coding digital experiences that are **simple**, **scalable**, and **fun to use**.
+🚀 I started out designing things to look good, then realized I wanted to build them too.  
+Now I get to do both — designing and coding digital experiences that are **simple**, **scalable**, and **fun to use**.
 
 <br/>
 

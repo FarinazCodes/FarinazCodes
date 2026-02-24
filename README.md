@@ -60,7 +60,7 @@ Now I get to do both — designing and coding digital experiences that are **sim
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FarinazCodes&theme=tokyonight&hide_border=true&date_format=M j%5B%2C Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=FarinazCodes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -70,6 +70,7 @@ Now I get to do both — designing and coding digital experiences that are **sim
 📌 Always exploring **new design trends & emerging web technologies** to build engaging experiences.
 
 🔥 Currently working on **BuddyMD** — stay tuned!
+
 
 
 

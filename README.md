@@ -60,7 +60,7 @@ Now I get to do both — designing and coding digital experiences that are **sim
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FarinazCodes&theme=tokyonight&hide_border=true&date_format=M j[, Y]" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=FarinazCodes&theme=tokyonight&hide_border=true&date_format=M j%5B%2C Y%5D" alt="GitHub Streak"/>
 </div>
 
 ---
